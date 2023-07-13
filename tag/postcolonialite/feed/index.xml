@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>postcolonialité &#8211; Histoire Réunion</title>
+	<atom:link href="https://www.histoire-reunion.re/tag/postcolonialite/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.histoire-reunion.re/</link>
+	<description>Notre île, notre histoire, sans tabou</description>
+	<lastBuildDate>Wed, 24 Jul 2019 18:10:20 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>https://www.histoire-reunion.re/wp-content/uploads/2017/04/cropped-logo1-1-32x32.png</url>
+	<title>postcolonialité &#8211; Histoire Réunion</title>
+	<link>https://www.histoire-reunion.re/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>[VIDEO] La postcolonialité à la Réunion (Françoise Vergès)</title>
+		<link>https://www.histoire-reunion.re/video-la-postcolonialite-a-la-reunion-francoise-verges/</link>
+		
+		<dc:creator><![CDATA[Histoire Réunion]]></dc:creator>
+		<pubDate>Mon, 03 Apr 2017 19:38:05 +0000</pubDate>
+				<category><![CDATA[Histoire de la Réunion]]></category>
+		<category><![CDATA[Vidéos]]></category>
+		<category><![CDATA[Françoise Vergès]]></category>
+		<category><![CDATA[postcolonialité]]></category>
+		<guid isPermaLink="false">https://www.histoire-reunion.re/?p=78</guid>
+
+					<description><![CDATA[Plan : &#8211; Introduction &#8211; La Réunion dans l&#8217;océan Indien avant la colonisation française &#8211; L&#8217;arrivée des européens &#8211; Le&#8230; <a class="read-more" href="https://www.histoire-reunion.re/video-la-postcolonialite-a-la-reunion-francoise-verges/">Continuer la lecture</a>]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">Plan :<br />
+&#8211; Introduction<br />
+&#8211; La Réunion dans l&rsquo;océan Indien avant la colonisation française<br />
+&#8211; L&rsquo;arrivée des européens<br />
+&#8211; Le processus de créolisation<br />
+&#8211; 1848<br />
+&#8211; L&rsquo;oubli imposé<br />
+&#8211; De 1946 à nos jours<br />
+&#8211; Contribution aux grands débats contemporains<br />
+&#8211; Conclusion</p>
+<p>Enregistrement réalisé lors de la rencontre Couleur Saphir N°96, organisée par l&rsquo;Association réunionnaise communication et culture le 3 juin 2005 à Paris</p>
+<p>« La Réunion est en situation postcoloniale : la postcolonialité n&rsquo;est pas simplement l&rsquo;indépendance nationale mais un dépassement de la problématique anti-coloniale telle qu&rsquo;elle s&rsquo;est articulée dans les années 1960. La postcolonialité réunionnaise pose la question de la citoyenneté , d&rsquo;une citoyenneté obtenue de longue date et en interroge la conception normalienne, révélant son histoire conflictuelle et d&rsquo;exclusion masquées (femmes, colonisés exclus des droits civiques et sociaux). Elle pose la question de la place et du rôle de la colonie dans l&rsquo;élaboration de l&rsquo;identité nationale française, de la doctrine républicaine, et de l&rsquo;image que la France se fait d&rsquo;elle-même. La colonie en tant que telle est constitutive de la nation française, elle n&rsquo;en est pas un surplus ou son ailleurs déraisonnable. »</p>
+<p><iframe title="La postcolonialité à la Réunion" width="1140" height="641" src="https://www.youtube.com/embed/GIlP1iRvTi4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p><strong>Source</strong> :&nbsp;<a href="http://www.sudoc.abes.fr/DB=2.1/SRCH?IKT=12&amp;TRM=134076281" target="_blank" rel="noopener noreferrer">http://www.sudoc.abes.fr/DB=2.1/SRCH?IKT=12&amp;TRM=134076281</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>contrôle des naissainces &#8211; Histoire Réunion</title>
+	<atom:link href="https://www.histoire-reunion.re/tag/controle-des-naissainces/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.histoire-reunion.re/</link>
+	<description>Notre île, notre histoire, sans tabou</description>
+	<lastBuildDate>Wed, 24 Jul 2019 18:03:13 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>https://www.histoire-reunion.re/wp-content/uploads/2017/04/cropped-logo1-1-32x32.png</url>
+	<title>contrôle des naissainces &#8211; Histoire Réunion</title>
+	<link>https://www.histoire-reunion.re/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>[VIDEO] La Réunion des années 1960-1970 : émigration, déportation et contrôle des naissances</title>
+		<link>https://www.histoire-reunion.re/video-la-reunion-des-annees-1960-1970-emigration-deportation-et-controle-des-naissances/</link>
+		
+		<dc:creator><![CDATA[Histoire Réunion]]></dc:creator>
+		<pubDate>Fri, 20 Oct 2017 21:35:55 +0000</pubDate>
+				<category><![CDATA[Vidéos]]></category>
+		<category><![CDATA[contrôle des naissainces]]></category>
+		<category><![CDATA[debré]]></category>
+		<category><![CDATA[déportation]]></category>
+		<category><![CDATA[émigration]]></category>
+		<category><![CDATA[Françoise Vergès]]></category>
+		<category><![CDATA[Jean-Charles Pitou]]></category>
+		<category><![CDATA[Lyon 2]]></category>
+		<category><![CDATA[Michael Gence]]></category>
+		<guid isPermaLink="false">https://www.histoire-reunion.re/?p=187</guid>
+
+					<description><![CDATA[Vidéo de la conférence-débat avec Françoise Vergès, Jean-Charles Pitou et Michael Gence, à Lyon 2 le 20 mai 2017 (Voir&#8230; <a class="read-more" href="https://www.histoire-reunion.re/video-la-reunion-des-annees-1960-1970-emigration-deportation-et-controle-des-naissances/">Continuer la lecture</a>]]></description>
+										<content:encoded><![CDATA[<p>Vidéo de la conférence-débat avec Françoise Vergès, Jean-Charles Pitou et Michael Gence, à Lyon 2 le 20 mai 2017 (<span style="text-decoration: underline;"><a href="https://www.histoire-reunion.re/index.php/2017/04/08/projectionconference-la-reunion-des-annees-1960-1970-emigration-deportation-et-controle-des-naissances/">Voir ici pour plus d&rsquo;informations</a></span>).</p>
+<p>Le film documentaire de Michael Gence diffusé lors de cet événement (film absent de la vidéo ci-dessous) est intitulé « Rassine monmon papa : ce passé qui ne passe pas ».&nbsp; (Edit: 19/06/2019 : Le film est désormais en libre accès sur Youtube :&nbsp; <a href="https://www.youtube.com/watch?v=aCNjGYG56oE">https://www.youtube.com/watch?v=aCNjGYG56oE</a> )</p>
+<p>Voici les interventions et les échanges avec le public lors de cet événement, tiré du<a href="http://www.univ-lyon2.fr/culture-savoirs/podcasts/la-reunion-des-annees-1960-1970-emigration-deportation-et-controle-des-naissances-732706.kjsp?RH=WWW_FR"> site de l&rsquo;université de Lyon 2 :</a></p>
+<p><center><video poster="/medias/photo/ietl_1496392335395-jpg" controls="controls" width="640" height="380"><source src="http://audiovideocast.univ-lyon2.fr/coursv2/1/00/00/16/17/1617.mp4" type="video/mp4"><p class="nohtml5">Warning! Your browser doesn&rsquo;t support html5.</p></video></center></p>
+<div style="text-align: left;"></div>
+]]></content:encoded>
+					
+		
+		<enclosure url="http://audiovideocast.univ-lyon2.fr/coursv2/1/00/00/16/17/1617.mp4" length="591647517" type="video/mp4" />
+
+			</item>
+	</channel>
+</rss>

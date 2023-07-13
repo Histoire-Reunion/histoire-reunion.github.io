@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>eslcavage &#8211; Histoire Réunion</title>
+	<atom:link href="https://www.histoire-reunion.re/tag/eslcavage/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.histoire-reunion.re/</link>
+	<description>Notre île, notre histoire, sans tabou</description>
+	<lastBuildDate>Wed, 24 Jul 2019 18:07:56 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>https://www.histoire-reunion.re/wp-content/uploads/2017/04/cropped-logo1-1-32x32.png</url>
+	<title>eslcavage &#8211; Histoire Réunion</title>
+	<link>https://www.histoire-reunion.re/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>[LIVRE] Le 20 décembre 1848 et sa célébration à la Réunion : Du déni à la réhabilitation (1848-1980). Prosper Eve</title>
+		<link>https://www.histoire-reunion.re/livre-le-20-decembre-1848-et-sa-celebration-a-la-reunion-du-deni-a-la-rehabilitation-1848-1980-prosper-eve/</link>
+		
+		<dc:creator><![CDATA[Histoire Réunion]]></dc:creator>
+		<pubDate>Mon, 03 Apr 2017 20:05:46 +0000</pubDate>
+				<category><![CDATA[Histoire de la Réunion]]></category>
+		<category><![CDATA[L'esclavage]]></category>
+		<category><![CDATA[Livres]]></category>
+		<category><![CDATA[abolition]]></category>
+		<category><![CDATA[célébration]]></category>
+		<category><![CDATA[eslcavage]]></category>
+		<category><![CDATA[fèt kaf]]></category>
+		<category><![CDATA[prosper eve]]></category>
+		<guid isPermaLink="false">https://www.histoire-reunion.re/?p=94</guid>
+
+					<description><![CDATA[L&#8217;abolition de l&#8217;esclavage, le 20 décembre 1848 à la Réunion, a été vraiment souhaitée par les esclaves et non par&#8230; <a class="read-more" href="https://www.histoire-reunion.re/livre-le-20-decembre-1848-et-sa-celebration-a-la-reunion-du-deni-a-la-rehabilitation-1848-1980-prosper-eve/">Continuer la lecture</a>]]></description>
+										<content:encoded><![CDATA[<p style="text-align:justify;">L&rsquo;abolition de l&rsquo;esclavage, le 20 décembre 1848 à la Réunion, a été vraiment souhaitée par les esclaves et non par les maîtres. L&rsquo;auteur tente d&rsquo;enrichir le débat en campant le décor de cette fête. Après voir montré que cet événement n&rsquo;a pas été désiré par les colons, il suit le long cheminement de la commémoration de cette date, de 1849 à l&rsquo;arrivée de la gauche au pouvoir en France en 1981.</p>
+<p><strong>Le 20 décembre 1848 et sa célébration à la réunion : Du déni à la réhabilitation (1848-1980), Prospère Eve, L&rsquo;Harmattan, 2003</strong><br />
+<a href="https://www.histoire-reunion.re/wp-content/uploads/2017/04/Eve-Prosper-Le-20-Decembre-1848-Et-Sa-Celebration-A-La-Reunion-Du-Deni-A-La-Rehabilitation-1848-1980-Livre-893741032_L.jpg"><img decoding="async" src="https://www.histoire-reunion.re/wp-content/uploads/2017/04/Eve-Prosper-Le-20-Decembre-1848-Et-Sa-Celebration-A-La-Reunion-Du-Deni-A-La-Rehabilitation-1848-1980-Livre-893741032_L.jpg" alt="" width="500" height="500" class="aligncenter size-full wp-image-95" srcset="https://www.histoire-reunion.re/wp-content/uploads/2017/04/Eve-Prosper-Le-20-Decembre-1848-Et-Sa-Celebration-A-La-Reunion-Du-Deni-A-La-Rehabilitation-1848-1980-Livre-893741032_L.jpg 500w, https://www.histoire-reunion.re/wp-content/uploads/2017/04/Eve-Prosper-Le-20-Decembre-1848-Et-Sa-Celebration-A-La-Reunion-Du-Deni-A-La-Rehabilitation-1848-1980-Livre-893741032_L-150x150.jpg 150w, https://www.histoire-reunion.re/wp-content/uploads/2017/04/Eve-Prosper-Le-20-Decembre-1848-Et-Sa-Celebration-A-La-Reunion-Du-Deni-A-La-Rehabilitation-1848-1980-Livre-893741032_L-300x300.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

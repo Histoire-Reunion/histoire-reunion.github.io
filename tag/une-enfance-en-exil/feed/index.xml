@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>une enfance en exil &#8211; Histoire Réunion</title>
+	<atom:link href="https://www.histoire-reunion.re/tag/une-enfance-en-exil/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.histoire-reunion.re/</link>
+	<description>Notre île, notre histoire, sans tabou</description>
+	<lastBuildDate>Wed, 24 Jul 2019 18:10:35 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>https://www.histoire-reunion.re/wp-content/uploads/2017/04/cropped-logo1-1-32x32.png</url>
+	<title>une enfance en exil &#8211; Histoire Réunion</title>
+	<link>https://www.histoire-reunion.re/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>[VIDEO] Une enfance en exil : documentaire sur les « enfants réunionnais de la Creuse » (William Cally)</title>
+		<link>https://www.histoire-reunion.re/video-une-enfance-en-exil-documentaire-sur-les-enfants-reunionnais-de-la-creuse-william-cally/</link>
+		
+		<dc:creator><![CDATA[Histoire Réunion]]></dc:creator>
+		<pubDate>Mon, 03 Apr 2017 19:41:23 +0000</pubDate>
+				<category><![CDATA[Histoire de la Réunion]]></category>
+		<category><![CDATA[Histoire post-départementalisation]]></category>
+		<category><![CDATA[Vidéos]]></category>
+		<category><![CDATA[DDASS]]></category>
+		<category><![CDATA[déportation]]></category>
+		<category><![CDATA[enfants de la creuse]]></category>
+		<category><![CDATA[une enfance en exil]]></category>
+		<category><![CDATA[William Cally]]></category>
+		<guid isPermaLink="false">https://www.histoire-reunion.re/?p=80</guid>
+
+					<description><![CDATA[Emission « Le grand débat » diffusé le 29 mai 2013, avec le documentaire « une enfance en exil », suivi d&#8217;un débat avec&#8230; <a class="read-more" href="https://www.histoire-reunion.re/video-une-enfance-en-exil-documentaire-sur-les-enfants-reunionnais-de-la-creuse-william-cally/">Continuer la lecture</a>]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">Emission « Le grand débat » diffusé le 29 mai 2013, avec le documentaire « une enfance en exil », suivi d&rsquo;un débat avec quelques réunionnais rescapés de cette tragédie.</p>
+<p style="text-align: justify;">L&rsquo;émission Le Grand Débat donne la parole à ces « enfants de la DDASS » qui ont brutalement été confrontés à des conditions de vie totalement différentes de celles auxquelles ils étaient habitués sur leur île natale. Certains se sont constitués, une fois majeurs, en association pour exiger réparations de ce déracinement.</p>
+<p>William Cally dans son documentaire « une enfance en exil », présenté en début d&rsquo;émission, revient sur le parcours des enfants réunionnais transférés vers diverses régions de France dans le cadre de la politique migratoire conduite par Michel Debré</p>
+<p>Jean-Marc Collienne a réuni sur le plateau de Réunion 1ère quelques uns de ces réunionnais qui ont témoigné de ce qu&rsquo;ils ont vécu.</p>
+<p>Source : <a class="link" href="http://reunion.la1ere.fr/emissions/le-grand-debat/actu/le-grand-debat-du-29-mai-sur-les-enfants-de-la-creuse.html" target="_blank" rel="nofollow noopener noreferrer">http://reunion.la1ere.fr/emissions/le-grand-debat/actu/le-grand-debat-du-29-mai-sur-les-enfants-de-la-creuse.html</a></p>
+<h3>Partie 1</h3>
+<p><iframe title="Une enfance en exil - réunionnais de la creuse Partie 1/3" frameborder="0" width="1140" height="641" src="https://www.dailymotion.com/embed/video/x18b5pl" allowfullscreen allow="autoplay"></iframe></p>
+<h3>Partie 2</h3>
+<p><iframe title="Une enfance en exil - réunionnais de la creuse Partie 2/3" frameborder="0" width="1140" height="641" src="https://www.dailymotion.com/embed/video/x18bgwv" allowfullscreen allow="autoplay"></iframe></p>
+<h3>Partie 3</h3>
+<p><iframe title="Une enfance en exil - réunionnais de la creuse Partie 3/3" frameborder="0" width="1140" height="641" src="https://www.dailymotion.com/embed/video/x18cn7t" allowfullscreen allow="autoplay"></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

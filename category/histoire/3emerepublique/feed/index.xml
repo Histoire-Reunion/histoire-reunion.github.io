@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>La colonie sous la IIIe République &#8211; Histoire Réunion</title>
+	<atom:link href="https://www.histoire-reunion.re/category/histoire/3emerepublique/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.histoire-reunion.re/</link>
+	<description>Notre île, notre histoire, sans tabou</description>
+	<lastBuildDate>Wed, 24 Jul 2019 18:10:06 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>https://www.histoire-reunion.re/wp-content/uploads/2017/04/cropped-logo1-1-32x32.png</url>
+	<title>La colonie sous la IIIe République &#8211; Histoire Réunion</title>
+	<link>https://www.histoire-reunion.re/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Le patriotisme au lycée de Saint-Denis de La Réunion avant la Grande Guerre (1870-1914)</title>
+		<link>https://www.histoire-reunion.re/le-patriotisme-au-lycee-de-saint-denis-de-la-reunion-avant-la-grande-guerre-1870-1914/</link>
+		
+		<dc:creator><![CDATA[Histoire Réunion]]></dc:creator>
+		<pubDate>Mon, 03 Apr 2017 19:30:09 +0000</pubDate>
+				<category><![CDATA[La colonie sous la IIIe République]]></category>
+		<category><![CDATA[patriotisme]]></category>
+		<category><![CDATA[Pierre-Éric Fageol]]></category>
+		<guid isPermaLink="false">https://www.histoire-reunion.re/?p=74</guid>
+
+					<description><![CDATA[Par&#160;Pierre-Éric Fageol, Université de la Réunion Résumé : À La Réunion, l’école de la Troisième République s’est investie dans un&#8230; <a class="read-more" href="https://www.histoire-reunion.re/le-patriotisme-au-lycee-de-saint-denis-de-la-reunion-avant-la-grande-guerre-1870-1914/">Continuer la lecture</a>]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">Par&nbsp;Pierre-Éric Fageol, Université de la Réunion</p>
+<p style="text-align: justify;"><strong>Résumé :</strong> À La Réunion, l’école de la Troisième République s’est investie dans un processus d’acculturation nationale où les valeurs patriotiques et civiques ont été mises à l’honneur. L’affermissement du sentiment d’appartenance nationale s’est donc inscrit progressivement dans un patrio-bellicisme et dans une reconnaissance des bienfaits de la Nation pour les jeunes élèves de la colonie. Le lycée de Saint-Denis, établissement modèle accueillant les élites réunionnaises, a été l’objet à cet égard d’une attention particulière de la part des autorités coloniales. Durant la remise des prix effectuée chaque année avant les vacances scolaires, les élèves recevaient ainsi une dernière leçon édifiante d’instruction civique rappelant les fondements de la Nation et les devoirs inhérents au patriotisme.</p>
+<p>Source : <a href="http://www.cairn.info/article.php?ID_ARTICLE=HDLE_133_0043" target="_blank" rel="noopener noreferrer">CAIRN</a><br />
+<strong>L&rsquo;article complet :</strong> <strong><a href="http://www.cairn.info/load_pdf.php?ID_ARTICLE=HDLE_133_0043" target="_blank" rel="noopener noreferrer">Télécharger le PDF</a></strong></p>
+<a href="https://www.histoire-reunion.re/wp-content/uploads/2017/04/histoire-education-2437.pdf" class="pdfemb-viewer" style="" data-width="max" data-height="max"  data-toolbar="bottom" data-toolbar-fixed="off">histoire-education-2437<br/></a>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

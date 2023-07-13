@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Commentaires sur : Les premiers députés de La Réunion à l’Assemblée Nationale à l’époque révolutionnaire (1790/1798)	</title>
+	<atom:link href="https://www.histoire-reunion.re/les-premiers-deputes-de-la-reunion-a-lassemblee-nationale-a-lepoque-revolutionnaire-17901798/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.histoire-reunion.re/les-premiers-deputes-de-la-reunion-a-lassemblee-nationale-a-lepoque-revolutionnaire-17901798/</link>
+	<description>Notre île, notre histoire, sans tabou</description>
+	<lastBuildDate>Wed, 24 Jul 2019 18:09:44 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+</channel>
+</rss>
