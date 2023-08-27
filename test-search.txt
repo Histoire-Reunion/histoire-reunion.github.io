@@ -1,7 +1,0 @@
-<div id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="https://www.histoire-reunion.re/">
-<div>
-<label class="screen-reader-text" for="s">Rechercher :</label>
-<input type="text" value name="s" id="s">
-<input type="submit" id="searchsubmit" value="Rechercher">
-</div>
-</form></div>
